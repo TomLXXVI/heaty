@@ -42,7 +42,7 @@ When *pip* is finished, type `heaty` at the command prompt in your project folde
 **Option 3**<br> 
 Windows 10 users can download from GitHub, under the folder *executable* a ZIP-file *heaty.zip* that
 contains the EXE-file *heaty.exe*. Save the ZIP-file anywhere you want on your computer and unzip it there. The result 
-will be a self contained application folder *heaty*. In this folder, double click *heaty.exe* to launch the GUI
+will be a self-contained application folder *heaty*. In this folder, double click *heaty.exe* to launch the GUI
 program.
 
 Once Heaty is running, further explanation about what Heaty can do and how to use it can be found under the *Help* menu 
