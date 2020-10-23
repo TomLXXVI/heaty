@@ -37,11 +37,9 @@ THIRD-PARTY LIBRARY LICENSES
 
 LICENSE FOR THIRD-PARTY LIBRARY "Pint"
 **************************************
+
 BSD 3-Clause License
 ---------------------
-Copyright (c) 2020, Tom Christiaens
-All rights reserved.
-
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
@@ -77,7 +75,6 @@ Version 3, 29 June 2007
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
-
 
 This version of the GNU Lesser General Public License incorporates
 the terms and conditions of version 3 of the GNU General Public
