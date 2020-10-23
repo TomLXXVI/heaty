@@ -1,0 +1,7 @@
+packaging==20.4
+Pint==0.16.1
+pyparsing==2.4.7
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+six==1.15.0
