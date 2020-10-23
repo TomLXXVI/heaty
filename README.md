@@ -5,7 +5,7 @@ Tom Christiaens. Have a look at [http://www.dirkchristiaens.be](http://www.dirkc
 
 
 ### About
-Heaty is a building heat load calculator that implements the "standard method" set 
+Heaty is a **building heat load calculator** that implements the "standard method" set 
 out in the European standard EN 12831-1:2017, section 6.
 
 
