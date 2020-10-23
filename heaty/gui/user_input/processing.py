@@ -148,7 +148,7 @@ class InputProcessor:
 
     def __init__(self, valid_interval: Interval, exceptions: List[Any] = None):
         self._valid_interval = valid_interval
-        self._exceptions = exceptions  # allowable exceptions on the valid interval
+        self._exceptions = exceptions if exceptions is not None else []  # allowable exceptions on the valid interval
 
     def validate(self, value, unit, parent):
         try:

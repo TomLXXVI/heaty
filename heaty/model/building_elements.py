@@ -145,7 +145,10 @@ class GroundBuildingElement(BuildingElement):
         return self.f_dT_an * self.A * self.U_equiv * self.f_T * self.f_gw
 
     def _calc_B(self) -> float:
-        return self.A_g / (0.5 * self.P)
+        try:
+            return self.A_g / (0.5 * self.P)
+        except ZeroDivisionError:
+            return 0.0
 
     def _set_U_equiv_params(self):
         if self.z == 0.0:
