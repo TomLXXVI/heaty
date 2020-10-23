@@ -14,7 +14,8 @@ Heaty's source code is available at [https://github.com/TomLXXVI/heaty](https://
 
 Several installation options are available:
 
-**Option 1:** If you have Python installed on your computer, you can clone the repository or download it as a ZIP-file 
+**Option 1:**<br>
+If you have Python installed on your computer, you can clone the repository or download it as a ZIP-file 
 from GitHub. After that, you need to create a source or built distribution using the *setup.py* file in the repository. 
 To do this, after cloning or unzipping the remote repository on your local computer, step into your 
 local repository folder and type at the command prompt:
@@ -33,11 +34,13 @@ You can then use this distribution file in your own project by taking the follow
 - Type e.g. `pip install Heaty-2020.10b1.tar.gz` to install the distribution in the virtual environment of your project.
 - Type `heaty` at the command prompt in your project folder to launch the GUI-program.
 
-**Option 2:**  You can find Heaty also on PyPi. To install the distribution package directly from Pypi, create your 
+**Option 2:**<br>
+You can find Heaty also on PyPi. To install the distribution package directly from Pypi, create your 
 project folder and virtual environment as described under option 1, and type `pip install heaty` at the command prompt.
 When *pip* is finished, type `heaty` at the command prompt in your project folder to launch the GUI-program.
 
-**Option 3:** Windows 10 users can download from GitHub, under the folder *executable* a ZIP-file *heaty.zip* that
+**Option 3:**<br> 
+Windows 10 users can download from GitHub, under the folder *executable* a ZIP-file *heaty.zip* that
 contains the EXE-file *heaty.exe*. Save the ZIP-file anywhere you want on your computer and unzip it there. The result 
 will be a self contained application folder *heaty*. In this folder, double click *heaty.exe* to launch the GUI
 program.
